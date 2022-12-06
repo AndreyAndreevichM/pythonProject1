@@ -5,6 +5,8 @@ path = r'C:\Windows\notepad.exe'
 path = r'C:\Windows\notepad.exe'
 # Получим размер файла в байтах
 size = os.path.getsize(path)
+path = r'C:\Windows\notepad.exe'
+
 # А теперь в килобайтах
 # Две косые черты — это целочисленное деление
 ksize = size // 1024
