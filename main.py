@@ -3,6 +3,7 @@ import os.path
 from datetime import datetime
 path = r'C:\Windows\notepad.exe'
 path = r'C:\Windows\notepad.exe'
+path = r'C:\Windows\notepad.exe'
 # Получим размер файла в байтах
 size = os.path.getsize(path)
 path = r'C:\Windows\notepad.exe'
